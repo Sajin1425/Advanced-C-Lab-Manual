@@ -20,8 +20,7 @@ Program:
 
 
 Output:
-
-//paste your output here
+![Screenshot 2025-04-25 105735](https://github.com/user-attachments/assets/60cc0817-f413-46a8-ad82-adbd911f44be)
 
 
 Result:
